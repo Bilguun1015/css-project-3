@@ -20,4 +20,5 @@ There is no functionality, and it is a pure CSS project.
 
 ## Notes
 
--- using CSS variables for the colors
+1. using CSS variables for the colors
+   -- CSS variables get inherited
