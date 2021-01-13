@@ -15,6 +15,12 @@ Grey dark 2: #777
 Grey dark 3: #999
 
 */
+// setting color variables for the root element
+:root {
+  --color-primary: #eb2f64;
+  --color-primary-light: #ff3366;
+  --color-primary-dark: #ba265d;
+}
 
 // basic reset
 * {
